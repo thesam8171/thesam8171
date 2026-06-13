@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Sami 👋
 
-<!--
-**thesam8171/thesam8171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning Python, SQL, Statistics, Probability, and Machine Learning
+
+🎯 Goal: Become an AI Engineer and build real-world intelligent systems
+
+
+## 🚀 Current Focus
+
+- Python Programming
+- Data Structures & Algorithms
+- SQL & Databases
+- Statistics & Probability
+- Data Analysis
+- Machine Learning
+
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C
+- C++
+- SQL
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+
+## 📚 Currently Learning
+
+- Data Analysis with Pandas
+- Machine Learning Fundamentals
+- Git & GitHub
+- Problem Solving
+
+
+## 🎯 2026 Goals
+
+- Build 10+ Projects
+- Upload Projects Consistently
+- Learn Machine Learning
+- Contribute to Open Source
+- Create a Strong AI Portfolio
+
+
+## 📂 Future Projects
+
+- Student Management System
+- Expense Tracker
+- Netflix Data Analysis
+- House Price Prediction
+- Spam Email Detection
+- Real-Time Intrusion Detection System
+
+
+## 📫 Connect
+
+GitHub: github.com/thesam8171
+
+⭐ Learning • Building • Improving
